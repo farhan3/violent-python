@@ -1,0 +1,7 @@
+python-nmap
+pyPdf
+pygeoip
+mechanize
+BeautifulSoup4
+docopts
+colorama
